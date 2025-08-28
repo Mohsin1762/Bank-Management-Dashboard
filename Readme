@@ -1,1 +1,58 @@
+📊 Loan Portfolio Dashboard – README
+Overview
+
+This Power BI dashboard provides a comprehensive view of the bank’s loan portfolio across different regions, customer segments, and products. 
+It is designed to help stakeholders track loan performance, overdue trends, customer behavior, and risk exposure in real time.
+
+📈 Key Metrics
+Loan Outstanding – Total active loan book.
+Overdue Amount – Total overdue principal amount.
+NPL Amount & % – Non-performing loans and their proportion of the total loan book.
+Total Loans Disbursed – Number of loans originated.
+Average Borrowings – Mean borrowing per client.
+MoM Growth (%) – Month-over-month changes in loan book and client base.
+Client Segmentation – Distribution of clients across products, tenure, and industries.
+
+🎯 Purpose
+Portfolio Monitoring: Track loan growth, disbursements, and outstanding balances.
+Credit Risk Management: Identify overdue exposures, NPLs, and high-risk regions/segments.
+Customer Insights: Understand client distribution, borrowing behavior, and repayment trends.
+Decision-Making: Support management in strategic planning, credit policy adjustments, and resource allocation.
+
+🔑 Key Visuals
+
+Region-wise Loan Book
+Displays loan distribution across major regions (Centre, Est, Kinshasa, Ouest, Siège, Sud).
+Purpose: Monitor regional exposure and growth of the loan book.
+MoM Loan Outstanding Trend
+Monthly trend of loan outstanding from Jan 2024 to Mar 2025.
+Purpose: Track portfolio growth and seasonality.
+Overdue Decomposition by Segment
+Breakdown of overdue loans by business segments (Corporate & Institutional, Corporate Banking, Retail Banking, Private Banking).
+Purpose: Identify high-risk segments contributing to overdue amounts.
+Days Till Payment Buckets (Aging Analysis)
+Shows overdue distribution across buckets (0–2 days, 3–7 days, 8–15 days, 16–30 days, 31–60 days, 61–90 days, >90 days).
+Purpose: Assess payment delays and monitor early warning signals.
+Segment-wise Loan Book
+Loan distribution across major banking segments.
+Purpose: Understand concentration of portfolio across customer types.
+Top 10 Cities with High Overdue Amounts
+Visual ranking of cities (e.g., Kinshasa, Kolwezi, Lubumbashi, etc.) with overdue exposure.
+Purpose: Pinpoint geographical areas with high credit risk.
+NPL (Non-Performing Loan) Analysis
+Metrics: Loan Outstanding, Overdue Amount, NPL Amount, NPL %, Total Loans Disbursed, Average Borrowings.
+Purpose: Monitor credit risk and portfolio health.
+Customer Insights & Borrowing Trends
+MoM client borrowing trends, total clients, NPL count, and segmentation by loan type.
+Purpose: Track customer growth and repayment behavior.
+Overdue Amount by Loan Tenure
+Compares short-term, medium-term, and long-term overdue exposures.
+Purpose: Highlight risk concentration by tenure.
+Industry-wise Loan Distribution Across Regions
+Breakdown of loan exposure across industries (Mining, Trading, Beverages & Food, Public Admin, etc.).
+Purpose: Assess sector concentration risk.
+Loan Product Performance
+Loan disbursement by product (Overdraft, Consumer Loan, Working Capital Loan, etc.).
+Purpose: Evaluate performance of different loan products.
+
 
